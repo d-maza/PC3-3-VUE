@@ -4,6 +4,7 @@ import Pie from './components/FooterLayout.vue';
 import CodeDive from './components/CodeDive.vue';
 
 
+
 </script>
 
 
@@ -13,6 +14,7 @@ import CodeDive from './components/CodeDive.vue';
 <div> 
   
     <Cabecera />
+    
 <main>
 
 <section class="py-1 text-center container">
@@ -110,6 +112,7 @@ import CodeDive from './components/CodeDive.vue';
 
           <div class="card-body">
             <p class="card-text">MODULO 2 PC2<br><br>Haz que el usuario entre en bucle has cumplir las condicion.</p>
+            
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 <a href="https://codepen.io/david-maza-borjabad/pen/eYrRgJM"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
@@ -159,7 +162,7 @@ import CodeDive from './components/CodeDive.vue';
       </div>
       <div class="col">
         <div id="tarjeta" class="card shadow-sm">
-          <img id="tarjeta" src="./assets/pc1-3.jpg" alt="" srcset="">
+          <img id="tarjeta" src="./assets/pc2-3.jpg" alt="" srcset="">
 
           <div class="card-body">
             <p class="card-text">MODULO 3 PC2<br><br>Crea un formulario en un HTML y conecta con el JS con el (v-model)</p>
@@ -196,6 +199,7 @@ import CodeDive from './components/CodeDive.vue';
 </main>
 
 <Pie />
+
   </div>
 
 </template>

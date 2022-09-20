@@ -10,7 +10,7 @@
     </p>
     <p class="mb-1">David Maza &copy; Espero que hayas disfutado de esta páguina </p>
     <p>Ayudame a mejorar se critico/a y haz tu aportación dejando un mesaje en mi correo con lo que cambiarias.</p>
-
+    <a href="mailto:david.maza@hotmail.es">Contactar</a>
   </div>
 </footer>
 
