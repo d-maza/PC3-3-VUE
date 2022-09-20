@@ -42,7 +42,7 @@ import CodeDive from './components/CodeDive.vue';
             <p class="card-text">MODULO 1 PC1<br><br> Primer contacto, crear una estrututa básica de html segun el enunciado</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <a href="https://codepen.io/david-maza-borjabad/pen/gOzRLPZ"><button type="button" class="btn btn-sm btn-primary">Editar</button></a>
+                <a href="https://codepen.io/david-maza-borjabad/pen/gOzRLPZ"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
                 <!-- <button onclick="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
               </div>
               <small class="text-muted"> HTML ⭐</small>
@@ -60,7 +60,7 @@ import CodeDive from './components/CodeDive.vue';
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 
-                <a href="https://codepen.io/david-maza-borjabad/pen/dyeROzj?editors=1100"><button type="button" class="btn btn-sm btn-primary">Editar</button></a>
+                <a href="https://codepen.io/david-maza-borjabad/pen/dyeROzj?editors=1100"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
                 <!-- <button action="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
               </div>
               <small class="text-muted">CSS ⭐</small>
@@ -77,7 +77,7 @@ import CodeDive from './components/CodeDive.vue';
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
 
-                <a href="https://codepen.io/david-maza-borjabad/pen/vYjZydb"><button type="button" class="btn btn-sm btn-primary">Editar</button></a>
+                <a href="https://codepen.io/david-maza-borjabad/pen/vYjZydb"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
                 <!-- <button action="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
               </div>
               <small class="text-muted">CSS ⭐⭐</small>
@@ -97,7 +97,7 @@ import CodeDive from './components/CodeDive.vue';
               <div class="btn-group">
 
                 <a href="https://codepen.io/david-maza-borjabad/pen/oNdwYMa?editors=0010"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
-                <!-- <button action="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
+                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E21.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
               </div>
               <small class="text-muted">JavaScript  ⭐⭐⭐</small>
             </div>
@@ -113,7 +113,7 @@ import CodeDive from './components/CodeDive.vue';
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 <a href="https://codepen.io/david-maza-borjabad/pen/eYrRgJM"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
-                <!-- <button action="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
+                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E22.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
                 
               </div>
               <small class="text-muted">JavaScript ⭐⭐</small>
@@ -131,7 +131,7 @@ import CodeDive from './components/CodeDive.vue';
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 <a href="https://codepen.io/david-maza-borjabad/pen/ZEoyLJR"> <button type="button" class="btn btn-sm btn-warning">Editar</button></a>
-                <!-- <button action="" type="button" class="btn btn-sm btn-primary ml-2">Enunciado</button> -->
+                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E23.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
                
               </div>
               <small class="text-muted">JavaScript ⭐⭐</small>
@@ -149,8 +149,8 @@ import CodeDive from './components/CodeDive.vue';
             <p class="card-text">MODULO 3 PC1<br><br>Crea una Single-Page Application (SPA) usando la CDN de VUE.</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button>
-                <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
+                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E31.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
+
               </div>
               <small class="text-muted">VUE ⭐⭐⭐</small>
             </div>
@@ -165,8 +165,7 @@ import CodeDive from './components/CodeDive.vue';
             <p class="card-text">MODULO 3 PC2<br><br>Crea un formulario en un HTML y conecta con el JS con el (v-model)</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button>
-                <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
+                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E32.PNG"><button type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a> 
               </div>
               <small class="text-muted">VUE ⭐⭐⭐</small>
             </div>
@@ -182,7 +181,7 @@ import CodeDive from './components/CodeDive.vue';
             <p class="card-text">MODULO 3 PC3<br><br>Este es el ejerccio final de curso y es lo que estas contemplando</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <button onclick="mostrar()" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button>
+               <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E33.png"><button type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a> 
                 <!-- <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> -->
               </div>
               <small class="text-muted">VUE ⭐⭐⭐⭐</small>
