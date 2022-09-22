@@ -2,13 +2,11 @@
 import Cabecera from './components/HeaderLayout.vue'
 import Pie from './components/FooterLayout.vue';
 import CodeDive from './components/CodeDive.vue';
-
-
-
 </script>
 
 
 <template>
+
 
 
 <div> 
@@ -24,7 +22,7 @@ import CodeDive from './components/CodeDive.vue';
       <br>
       <CodeDive /><br><br>
       <h1  class="fw-light text-success">CURSO FRONT END WEB DEVELOPER</h1>
-      <p class="lead text-muted">Aquí encontraras la recopilación de los ejercicios de evaluación del CURSO FRONT-END WEB DEVELOPER en modalidad teleformación de Multimedia Tarragona.</p>
+      <p class="lead text-muted">Aquí encontrarás la recopilación de los ejercicios de evaluación del CURSO FRONT-END WEB DEVELOPER en modalidad teleformación de Multimedia Tarragona.</p>
       <p>Recuerda seguir las directrices de los enunciadios del curso</p>
 
     </div>
@@ -37,11 +35,11 @@ import CodeDive from './components/CodeDive.vue';
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm mb-3">
+        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
 
           <img id="tarjeta" src="./assets/E1.jpg" alt="" srcset="">
           <div class="card-body">
-            <p class="card-text">MODULO 1 PC1<br><br> Primer contacto, crear una estrututa básica de html segun el enunciado</p>
+            <p class="card-text">MODULO 1 PC1<br><br>Tu primer contacto, crear una estructura básica de html segun el enunciado</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 <a href="https://codepen.io/david-maza-borjabad/pen/gOzRLPZ"><button type="button" class="btn btn-sm btn-warning">Editar</button></a>
@@ -53,12 +51,12 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
 
           <img id="tarjeta" src="./assets/p2-1.jpg" alt="" srcset="">
 
           <div class="card-body">
-            <p class="card-text">MODULO 1 PC2<br><br> Añade los estilos CSS al ejerccio anterios siguiedo las pautas del enunciado.</p>
+            <p class="card-text">MODULO 1 PC2<br><br> Añade los estilos CSS al ejercicio anterior, siguiedo las pautas del enunciado.</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 
@@ -71,11 +69,11 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
 
           <img id="tarjeta" src="./assets/pc3-1.jpg" alt="" srcset="">
           <div class="card-body">
-            <p class="card-text">MODULO 1 PC3<br><br> Replica la la imagen y haz que sea reponsive</p>
+            <p class="card-text">MODULO 1 PC3<br><br> Replica la imagen de la muestra y haz que sea reponsive</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
 
@@ -89,12 +87,12 @@ import CodeDive from './components/CodeDive.vue';
       </div>
 
       <div class="col">
-        <div  id="tarjeta" class="card shadow-sm mb-3">
+        <div  id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
   
           <img id="tarjeta"  src="./assets/pc1-2.jpg" alt="" srcset="">
 
           <div class="card-body">
-            <p class="card-text">MODULO 2 PC1<br><br> Pregunta el año de nacimiento al usuario y dile que signo es del horoscopo chino.</p>
+            <p class="card-text">MODULO 2 PC1<br><br> Pregunta el año de nacimiento al usuario y dile que signo del horóscopo chino es.</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
 
@@ -107,11 +105,11 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
           <img id="tarjeta" src="./assets/p2-2.jpg" alt="" srcset="">
 
           <div class="card-body">
-            <p class="card-text">MODULO 2 PC2<br><br>Haz que el usuario entre en bucle has cumplir las condicion.</p>
+            <p class="card-text">MODULO 2 PC2<br><br>Haz que el usuario entre en bucle haz cumplir las condicion.</p>
             
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
@@ -125,15 +123,15 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
 
           <img id="tarjeta" src="./assets/pc3-2.jpg" alt="" srcset="">
 
           <div class="card-body">
-            <p class="card-text">MODULO 2 PC3<br><br>Haz que según la resdpuesta del usuario muetre por el DOM el resultado.</p>
+            <p class="card-text">MODULO 2 PC3<br><br>Haz que según la respuesta del usuario muestre por el DOM el resultado.</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
-                <a href="https://codepen.io/david-maza-borjabad/pen/ZEoyLJR"> <button type="button" class="btn btn-sm btn-warning">Editar</button></a>
+                <!-- <a href="https://codepen.io/david-maza-borjabad/pen/ZEoyLJR"> <button type="button" class="btn btn-sm btn-warning">Editar</button></a> -->
                 <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E23.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
                
               </div>
@@ -144,7 +142,7 @@ import CodeDive from './components/CodeDive.vue';
       </div>
 
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm mb-3">
+        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
           
           <img id="tarjeta" src="./assets/pc1-3.jpg" alt="" srcset="">
 
@@ -153,7 +151,6 @@ import CodeDive from './components/CodeDive.vue';
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E31.png"><button action="" type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a>
-
               </div>
               <small class="text-muted">VUE ⭐⭐⭐</small>
             </div>
@@ -161,13 +158,15 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
           <img id="tarjeta" src="./assets/pc2-3.jpg" alt="" srcset="">
-
+          
           <div class="card-body">
             <p class="card-text">MODULO 3 PC2<br><br>Crea un formulario en un HTML y conecta con el JS con el (v-model)</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
+                
+                <a href="https://codepen.io/david-maza-borjabad/pen/PoeKdyE"> <button type="button" class="btn btn-sm btn-warning">Editar</button></a>
                 <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E32.PNG"><button type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a> 
               </div>
               <small class="text-muted">VUE ⭐⭐⭐</small>
@@ -176,12 +175,12 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
          
           <img id="tarjeta" src="./assets/pc3-3.jpg" alt="" srcset="">
 
           <div class="card-body">
-            <p class="card-text">MODULO 3 PC3<br><br>Este es el ejerccio final de curso y es lo que estas contemplando</p>
+            <p class="card-text">MODULO 3 PC3<br><br>Este es el ejercicio final de curso y es lo que estás contemplando</p>
             <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                <a href="https://raw.githubusercontent.com/d-maza/PC3-3-VUE/main/src/assets/E33.png"><button type="button" class="btn btn-sm btn-success ml-2">Enunciado</button></a> 
@@ -223,8 +222,8 @@ import CodeDive from './components/CodeDive.vue';
     height: 3rem;
     background-color: rgba(0, 0, 0, .1);
     border: solid rgba(0, 0, 0, .15);
-    border-width: 1px 0;
-    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+    border-width: px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(7, 7, 7, 0.1), inset 0 .125em .5em rgba(0, 0, 0, .15);
   }
 
   .b-example-vr {
@@ -258,8 +257,23 @@ import CodeDive from './components/CodeDive.vue';
 
   #tarjeta {
 
-    border-radius: 8px;
+    border-radius: 5px;
   }
 
 </style>
 
+<script>
+
+import Footer from './components/FooterLayout.vue';
+import Header from './components/HeaderLayout.vue';
+import Logo from './components/CodeDive.vue';
+  
+  export default {
+    name: 'App',
+     components: {
+      Footer,
+      Header,
+      Logo
+     }  
+  }
+  </script>

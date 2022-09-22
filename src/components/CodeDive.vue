@@ -1,4 +1,3 @@
-
 <template>
   <div class="greetings">
 
@@ -13,6 +12,8 @@
 
   </div>
 </template>
+
+
 
 <style scoped>
 
@@ -102,3 +103,9 @@ h3 {
   }
 }
 </style>
+
+<script>
+  export default {
+    name: 'Logo', 
+  }
+  </script>
