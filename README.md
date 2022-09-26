@@ -35,15 +35,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 ﻿﻿![Logo](https://github.com/d-maza/PC3-3-VUE/blob/main/src/assets/PortadaMK.png)
   
 #### Guías de referencia 💡
