@@ -2,6 +2,7 @@
 import Cabecera from './components/HeaderLayout.vue'
 import Pie from './components/FooterLayout.vue';
 import CodeDive from './components/CodeDive.vue';
+
 </script>
 
 
@@ -35,7 +36,7 @@ import CodeDive from './components/CodeDive.vue';
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark px-2 pt-2">
 
           <img id="tarjeta" src="./assets/E1.jpg" alt="" srcset="">
           <div class="card-body">
@@ -51,7 +52,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
 
           <img id="tarjeta" src="./assets/p2-1.jpg" alt="" srcset="">
 
@@ -69,7 +70,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
 
           <img id="tarjeta" src="./assets/pc3-1.jpg" alt="" srcset="">
           <div class="card-body">
@@ -87,7 +88,7 @@ import CodeDive from './components/CodeDive.vue';
       </div>
 
       <div class="col">
-        <div  id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
+        <div  id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark px-2 pt-2">
   
           <img id="tarjeta"  src="./assets/pc1-2.jpg" alt="" srcset="">
 
@@ -105,7 +106,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
           <img id="tarjeta" src="./assets/p2-2.jpg" alt="" srcset="">
 
           <div class="card-body">
@@ -123,7 +124,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
 
           <img id="tarjeta" src="./assets/pc3-2.jpg" alt="" srcset="">
 
@@ -142,7 +143,7 @@ import CodeDive from './components/CodeDive.vue';
       </div>
 
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm mb-3 text-light bg-dark px-2 pt-2">
           
           <img id="tarjeta" src="./assets/pc1-3.jpg" alt="" srcset="">
 
@@ -158,7 +159,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
           <img id="tarjeta" src="./assets/pc2-3.jpg" alt="" srcset="">
           
           <div class="card-body">
@@ -175,7 +176,7 @@ import CodeDive from './components/CodeDive.vue';
         </div>
       </div>
       <div class="col">
-        <div id="tarjeta" class="card shadow-sm text-light bg-dark">
+        <div id="tarjeta" class="card shadow-sm text-light bg-dark px-2 pt-2">
          
           <img id="tarjeta" src="./assets/pc3-3.jpg" alt="" srcset="">
 
@@ -199,7 +200,8 @@ import CodeDive from './components/CodeDive.vue';
 
 <Pie />
 
-  </div>
+
+</div>
 
 </template>
 
